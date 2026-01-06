@@ -20,12 +20,11 @@ My name is Charles Martins. I'm a medical and scientific writer who bridges the 
 
 ### Clinical and Translational Medicine  
 - [The Role of Neuroprotective Peptides in Slowing ALS Progression]()
-- 
+
 
 ### Public Health & Preventive Medicine 
-- [Sleeping for a Stronger Heart: The Hidden Link between Rest and Cardiovascular Wellness]()
--  
-- 
+- [Sleeping for a Stronger Heart: The Hidden Link between Rest and Cardiovascular Wellness](https://github.com/Charles-O-Martins/medical-writing/blob/main/images_1/Couple%20stretching%20and%20yawning%20in%20bed%20_%20Free%20Photo.jpeg)
+
 ### Medical Technology & Digital Health  
 - [The Promise and Pitfalls of Wearable Devices in Predicting Cardiac Arrhythmias]()
 
