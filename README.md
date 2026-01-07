@@ -19,7 +19,7 @@ My name is Charles Martins. I'm a medical and scientific writer who bridges the 
 ## ✍️ Writing Samples  
 
 ### Clinical and Translational Medicine  
-- [The Role of Neuroprotective Peptides in Slowing ALS Progression]()
+- [The Role of Neuroprotective Peptides in Slowing ALS Progression](https://github.com/Charles-O-Martins/medical-writing/wiki/The-Role-of-Neuroprotective-Peptides-in-Slowing-Amyotrophic-Lateral-Sclerosis-(ALS)-Progression)
 
 
 ### Public Health & Preventive Medicine 
