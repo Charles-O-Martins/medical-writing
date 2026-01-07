@@ -26,7 +26,7 @@ My name is Charles Martins. I'm a medical and scientific writer who bridges the 
 - [Sleeping for a Stronger Heart: The Hidden Link between Rest and Cardiovascular Wellness](https://github.com/Charles-O-Martins/medical-writing/wiki/Sleeping-for-a-Stronger-Heart:-The-Hidden-Link-between-Rest-and-Cardiovascular-Wellness)
 
 ### Medical Technology & Digital Health  
-- [The Promise and Pitfalls of Wearable Devices in Predicting Cardiac Arrhythmias]()
+- [The Promise and Pitfalls of Wearable Devices in Predicting Cardiac Arrhythmias](https://github.com/Charles-O-Martins/medical-writing/wiki/The-Promise-and-Pitfalls-of-Wearable-Devices-in-Predicting-Cardiac-Arrhythmias)
 
 ### Medical Ethic, Policy and Research Governance. 
 - [The Role of Government in Regulating AI in Healthcare]()
