@@ -29,7 +29,7 @@ My name is Charles Martins. I'm a medical and scientific writer who bridges the 
 - [The Promise and Pitfalls of Wearable Devices in Predicting Cardiac Arrhythmias](https://github.com/Charles-O-Martins/medical-writing/wiki/The-Promise-and-Pitfalls-of-Wearable-Devices-in-Predicting-Cardiac-Arrhythmias)
 
 ### Medical Ethic, Policy and Research Governance. 
-- [The Role of Government in Regulating AI in Healthcare]()
+- [The Role of Government in Regulating AI in Healthcare](https://github.com/Charles-O-Martins/medical-writing/wiki/The-Role-of-Government-in-Regulating-AI-in-Healthcare)
 - [Informed Consent in Research Studies: A Practical Guide for Researchers]()
 
 ### Research and Literature Review 
