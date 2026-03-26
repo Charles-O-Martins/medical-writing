@@ -30,7 +30,7 @@ My name is Charles Martins. I'm a medical and scientific writer who bridges the 
 
 ### Medical Ethic, Policy and Research Governance. 
 - [The Role of Government in Regulating AI in Healthcare](https://github.com/Charles-O-Martins/medical-writing/wiki/The-Role-of-Government-in-Regulating-AI-in-Healthcare)
-- [Informed Consent in Research Studies: A Practical Guide for Researchers]()
+- [Informed Consent in Research Studies: A Practical Guide for Researchers](https://github.com/Charles-O-Martins/medical-writing/wiki/Informed-Consent-in-Research-Studies:-A-Practical-Guide-for-Researchers)
 
 ### Research and Literature Review 
 - [EFFECT OF NEWBOULDIA LAEVIS LEAVES METHANOL EXTRACT ON FERTILITY PROFILE IN MALE WISTAR RATS]()
